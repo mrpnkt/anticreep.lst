@@ -85,4 +85,4 @@ Opt out of seeing personalized ads (Google)
 * https://support.google.com/ads/answer/2662922?hl=en
 
 
-// original list found here: http://www.pcwf.co/2017/01/gtfo-easy-opt-out-lists-and-where-to.html
+` // original list found here: http://www.pcwf.co/2017/01/gtfo-easy-opt-out-lists-and-where-to.html `
