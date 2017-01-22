@@ -20,6 +20,10 @@ Opt-Out Lists and where to find them
 * http://www.familytreenow.com/optout
 * https://www.truthfinder.com/opt-out/
 * http://www.ancestry.com/cs/legal/PrivacyForYourFamilyTree (partial optout)
+* http://www.networkadvertising.org/choices/
+
+EFF Tutorial on Data Brokers (Acxiom, Datalogix, Epsilon, BlueKai, Acxiom)
+* https://www.eff.org/deeplinks/2013/02/howto-opt-out-databrokers-showing-your-targeted-advertisements-facebook
 
 DMA (direct mailer) optout:
 * https://dmachoice.thedma.org/register.php
@@ -70,3 +74,15 @@ Michael Bazztel's book: Hiding From the Internet:
 World Privacy Forum page on Credit Freezes:
 * https://www.worldprivacyforum.org/credit-freeze
 (They also have numerous other articles that can be helpful, though a lot of their opt out lists contain a lot of now-dead links or which redirect to new owners' unrelated sites)
+
+## Remove old website snapshots
+
+https://archive.org/about/contact.php
+
+## Advertising, Social Media
+
+Opt out of seeing personalized ads (Google)
+* https://support.google.com/ads/answer/2662922?hl=en
+
+
+// original list found here: http://www.pcwf.co/2017/01/gtfo-easy-opt-out-lists-and-where-to.html
